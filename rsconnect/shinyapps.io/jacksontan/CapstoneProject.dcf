@@ -1,0 +1,10 @@
+name: CapstoneProject
+account: jacksontan
+server: shinyapps.io
+appId: 94091
+bundleId: 418257
+url: https://jacksontan.shinyapps.io/CapstoneProject/
+when: 1460527351.74556
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: figure/image.png|final/en_US/en_US.blogs.txt|final/en_US/en_US.news.txt|final/en_US/en_US.twitter.txt
